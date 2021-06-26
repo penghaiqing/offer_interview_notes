@@ -5,6 +5,9 @@
 
 最近刷 剑指offer，做一个简单的学习记录
 
+#### leetcode 笔记
+
+https://uestc.feishu.cn/docs/doccnkjzkdWdqOzRhq9Rc3Lo8Lh
 
 
 #### 参与贡献
